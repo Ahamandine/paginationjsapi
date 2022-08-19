@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(17, 15, 34);
+    color:aliceblue;
+}
+
+li {
+    border: 5px darkmagenta solid;
+    color:rgb(247, 223, 207);
+    font-size: larger;
+    font-variant: small-caps;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    margin:1rem;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:1rem;
+    margin-left:10rem;
+    margin-right: 10rem;
+}
+
+a {
+    color:aliceblue;
+}
